@@ -1,0 +1,64 @@
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.csprojAssemblyReference.cache
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.csproj.CoreCompileInputs.cache
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.RazorAssemblyInfo.cache
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.RazorAssemblyInfo.cs
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.AssemblyInfoInputs.cache
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.AssemblyInfo.cs
+C:\Users\trent\Desktop\school\C#\SafeSpace\bin\Debug\netcoreapp2.1\SafeSpace.deps.json
+C:\Users\trent\Desktop\school\C#\SafeSpace\bin\Debug\netcoreapp2.1\SafeSpace.runtimeconfig.json
+C:\Users\trent\Desktop\school\C#\SafeSpace\bin\Debug\netcoreapp2.1\SafeSpace.runtimeconfig.dev.json
+C:\Users\trent\Desktop\school\C#\SafeSpace\bin\Debug\netcoreapp2.1\SafeSpace.dll
+C:\Users\trent\Desktop\school\C#\SafeSpace\bin\Debug\netcoreapp2.1\SafeSpace.pdb
+C:\Users\trent\Desktop\school\C#\SafeSpace\bin\Debug\netcoreapp2.1\SafeSpace.Views.dll
+C:\Users\trent\Desktop\school\C#\SafeSpace\bin\Debug\netcoreapp2.1\SafeSpace.Views.pdb
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.TagHelpers.input.cache
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.TagHelpers.output.cache
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.RazorCoreGenerate.cache
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.RazorTargetAssemblyInfo.cache
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.RazorTargetAssemblyInfo.cs
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.Views.pdb
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.dll
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.pdb
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.csproj.CopyComplete
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\Home\dashboard.g.cshtml.cs
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\Home\login.g.cshtml.cs
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\Home\Friends.g.cshtml.cs
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\Home\Profile.g.cshtml.cs
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\Home\friendrequests.g.cshtml.cs
+C:\Users\trent\Desktop\school\C#\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\Home\FriendList.g.cshtml.cs
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\bin\Debug\netcoreapp2.1\SafeSpace.deps.json
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\bin\Debug\netcoreapp2.1\SafeSpace.runtimeconfig.json
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\bin\Debug\netcoreapp2.1\SafeSpace.runtimeconfig.dev.json
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\bin\Debug\netcoreapp2.1\SafeSpace.dll
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\bin\Debug\netcoreapp2.1\SafeSpace.pdb
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\bin\Debug\netcoreapp2.1\SafeSpace.Views.dll
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\bin\Debug\netcoreapp2.1\SafeSpace.Views.pdb
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.csprojAssemblyReference.cache
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.csproj.CoreCompileInputs.cache
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.RazorAssemblyInfo.cache
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.RazorAssemblyInfo.cs
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.AssemblyInfoInputs.cache
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.AssemblyInfo.cs
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.TagHelpers.input.cache
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.TagHelpers.output.cache
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.RazorCoreGenerate.cache
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\Home\dashboard.g.cshtml.cs
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\Home\FriendList.g.cshtml.cs
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\Home\friendrequests.g.cshtml.cs
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\Home\Friends.g.cshtml.cs
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\Home\login.g.cshtml.cs
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\Home\Profile.g.cshtml.cs
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.RazorTargetAssemblyInfo.cache
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.RazorTargetAssemblyInfo.cs
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.Views.pdb
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.dll
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.pdb
+C:\Users\trent\OneDrive\Desktop\Code\C# AKA the best language\SafeSpace\obj\Debug\netcoreapp2.1\SafeSpace.csproj.CopyComplete

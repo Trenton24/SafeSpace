@@ -1,0 +1,48 @@
+@model UserViewModel
+<body>
+    <h1>SafeSpace   |   Hello @ViewBag.Name!</h1>
+    <nav><h2><a class="btn btn-primary" href="/result">Home</a> | <a class="btn btn-primary" href="/friends">Friends</a> | <a class="btn btn-primary" href="/user/@ViewBag.UserId">Profile</a> | <a class="btn btn-primary" href="/logout">Log Out</a> | @{if(ViewBag.UserId == ViewBag.ProfileId){<a class="btn btn-primary" href="/delete/@ViewBag.UserId">Delete</a>}}</h2></nav>
+
+    <h2>@ViewBag.ProfileName's Profile</h2>
+    @{
+        if(@ViewBag.ProfileId == @ViewBag.UserId){
+        <a href="https://api.instagram.com/oauth/authorize/?client_id=@ViewBag.UserId&redirect_uri=REDIRECT-URI&response_type=code">Link Instagram</a>
+        }
+    }
+    @{
+        int temp = 0;
+        foreach(Users u in Model.Pending)
+        {
+            if(Model.Accepted != null)
+            {
+                if(Model.Accepted.Accepted == 2)
+                {
+                    temp = 2;
+                }
+                if(Model.Accepted.Accepted == 1)
+                {
+                    temp = 3;
+                }
+            }
+            if(ViewBag.ProfileId == ViewBag.UserId)
+            {
+                temp = 1;
+            }
+
+        }
+        if(temp == 0)
+        {
+            <a href="/sendrequest/@ViewBag.ProfileId">Send Friend Request</a>
+        }
+        else if(temp == 3)
+        {
+            <a>Request Pending!</a>
+        }
+        else if(temp ==2)
+        {
+            <p>You and @ViewBag.ProfileName are Friends!</p>
+        }
+        
+    }
+
+</body>

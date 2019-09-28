@@ -1,0 +1,11 @@
+@model List<Users>
+<body>
+    <h1>SafeSpace   |   Hello @ViewBag.Name!</h1>
+    <nav><h2><a class="btn btn-primary" href="/result">Home</a> | <a class="btn btn-primary" href="/friends">Friends</a> | <a class="btn btn-primary" href="/user/@ViewBag.UserId">Profile</a> | <a class="btn btn-primary" href="/logout">Log Out</a></h2></nav>
+    @{
+        foreach(Users f in Model)
+        {
+            <h3>@f.FirstName @f.LastName</h3>
+        }
+    }
+</body>
